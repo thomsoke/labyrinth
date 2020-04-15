@@ -1,4 +1,5 @@
 Enter the Labyrinth
+:skull_and_crossbones: :flashlight: :candle: :dagger: :bow_and_arrow: :door: :boar:
 ***
 
 PURPOSE:
